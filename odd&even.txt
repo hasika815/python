@@ -1,0 +1,28 @@
+                                                                                                                       ODD OR EVEN  
+
+1.start 
+2.take an integer from the user.
+3.use the modulus operator to check the remainder when the number divided by.
+4.if the remainder is(), the number divided, it is odd.
+5.end 
+
+digital fluency
+types of computers
+  personal computer
+  mainframes
+  supercomputer
+  mobile devices
+ 
+what are the components of computer?
+        hardware components
+        software componenets
+
+
+hardware componenets:
+   1.output device:mouse, keyword,webscan,scanner.
+   2.input device:monitor,printer,speakers.
+   3.storage deviced:SDD,HDD,pen drive.
+   4.processing unit:CPU,GPU.
+   5.motherboard:main circuit board conneting all parts.
+   6.ports & cables:for connection and dara transfer.
+

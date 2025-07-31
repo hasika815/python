@@ -1,0 +1,7 @@
+                                                                                                                       ODD OR EVEN  
+
+1.start 
+2.take an integer from the user.
+3.use the modulus operator to check the remainder when the number divided by.
+4.if the remainder is(), the number divided, it is odd.
+5.end

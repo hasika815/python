@@ -1,0 +1,37 @@
+                                                                                                                   
+
+     digital fluency
+* types of  computers
+> Personal computer
+> mainframes
+> supercomputer
+> mobile devices
+ 
+* what are the components of computer?
+* hardware components
+* software componenets
+
+
+* hardware componenets:
+1)output device:
+* mouse, 
+* keyword
+* webscan
+* scanner
+2)input device
+* monitor
+* printer
+* speakers
+   3)Storage deviceS
+> SDD,
+> HDD,
+> pen drive.
+   4)processing unit:
+* CPU
+* GPU.
+   5)Motherboard:
+> main circuit board conneting all parts.
+   6)ports & cables
+> for connection and dara transfer.
+
+
